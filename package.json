@@ -1,0 +1,10 @@
+{
+  "name": "testsite",
+  "private": true,
+  "description": "launch_new_site 链路验证用临时站点",
+  "scripts": {
+    "build": "echo \"Static site, no build step\"",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {}
+}
